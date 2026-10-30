@@ -1,1 +1,1 @@
-{ "free": { "fullNavMin": 2, "navMin": 5 } }
+   { "free": { "fullNavMin": 2, "navMin": 5 }, "traffic": false, "tomtomSearch": false }
