@@ -1,2 +1,2 @@
    { "free": { "fullNavMin": 10, "navMin": 60, "fullAppMin": 30, "appMin": 180 }, 
-      "traffic": false, "tomtomSearch": false }
+      "traffic": true, "tomtomSearch": false }
